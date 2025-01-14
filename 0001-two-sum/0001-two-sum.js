@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 
- /*
+  /*
     var difference = ??
     subtract target from number
     return difference location, i if they add up to target
@@ -13,7 +13,6 @@
         var difference = None
 
     }
- 
  */
 
 var twoSum = function(nums, target) {
